@@ -1,6 +1,4 @@
 using System;
-using System.Collections.Generic;
-
 namespace CommonUtility
 {
     public static class CommonUtility 
